@@ -1,0 +1,5 @@
+node_modules
+old
+
+config.json
+data.sqlite
